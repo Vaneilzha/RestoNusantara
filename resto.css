@@ -4,6 +4,11 @@ body {
     background-color:#F3E9DC;
 }
 
+.awal img {
+   height: 110vh;
+   width: 99.2vw;
+}
+
 .navbar {
     background: #D96F32;
     padding: 0;
@@ -33,14 +38,58 @@ body {
     border-radius: 5px;
 }
 
-.rectangle-1 {
-    background-color:#F3E9DC;
+.rectangle-1{
+    /* background-color:#F3E9DC;
     border: 1px solid #000000;
     border-radius: 2rem;
     width: 60vw;
     height: 50vh;
     position: relative;
-    /* bottom: 0rem; */
-    top: 50px;
-    left: 300px;
+    bottom: 0rem;
+    top: 570px;
+    left: 300px; */
+    /* justify-content: center; */
+    align-items: center;
+    position: relative;
+    justify-content: center;
+}
+
+.gmbr {
+    
+    position: relative;
+    text-align: center;
+    top: 10px;
+    width: 5rem;
+    height: 5rem;
+}
+
+.font {
+    font-family: "Crimson Pro";
+    text-align: center;
+    
+}
+
+
+.textrec {
+    position: relative;
+    top: 15px;
+    font-size: 18px;
+    text-align: center;
+    bottom: 53rem;
+}
+
+.rectangle-3 {
+    background-color:#F3E9DC;
+    border-radius: 1.5rem;
+    width: 18vw;
+    height: 30vh;
+    position:absolute;
+    left: 100px;
+}
+
+.foto {
+    /* size: 100px; */
+    justify-content: center;
+    align-items: center;
+    padding: 1;
 }
