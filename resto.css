@@ -90,6 +90,7 @@ body {
     padding: 1;
     width: 150px;
     height: auto;
+    left: 150px;
 }
 
 .judulrec {
@@ -162,4 +163,10 @@ body {
       body {
         flex-direction: column;
       }
+    }
+
+    .req{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        text-align: center;
+        padding-top: 2rem;
     }
