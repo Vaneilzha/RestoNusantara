@@ -83,12 +83,13 @@ body {
 }
 
 .foto {
-    /* size: 100px; */
+    display: flex;
     justify-content: center;
+    gap: 30px;
     align-items: center;
     padding: 1;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: auto;
 }
 
 .judulrec {
@@ -161,3 +162,4 @@ body {
       body {
         flex-direction: column;
       }
+    }
