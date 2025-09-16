@@ -5,18 +5,12 @@
     </div>
 
     <div class="foto">
-        <div class="f">
-            <img src="images/food.png" alt="Food" style="width: 10rem;">
-            <p style="text-align: center;">FOOD</p>
-        </div>
-            
-        <div class="f">
-            <img src="images/drink.png" alt="Drink" style="width: 10rem;">
-            <p style="text-align: center;">DRINK</p>
-        </div>
-            <img src="images/dessert.png" alt="Dessert" style="width: 10rem;">
-            <p style="text-align: center;">DESSERT</p>
-        <div class="f">
+    <img src="images/food.png" width="100" height="100"   alt="Food">
+    <p style="text-align: center;">FOOD</p>
+    <img src="images/drink.png" alt="Drink">
+    <p style="text-align: center;">DRINK</p>
+    <img src="images/dessert.png" alt="Dessert">
+    <p style="text-align: center;">DESSERT</p>
     </div>
 
     <div class="rectangle-1">
