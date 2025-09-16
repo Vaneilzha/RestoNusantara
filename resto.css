@@ -84,13 +84,10 @@ body {
 
 .foto {
     display: flex;
-    justify-content: center;
-    gap: 30px;
-    align-items: center;
-    padding: 1;
-    width: 150px;
-    height: auto;
-    left: 150px;
+    flex-wrap: wrap;
+    gap: 7rem;
+    margin-left: 16rem;
+    margin-top: 5rem;
 }
 
 .judulrec {
